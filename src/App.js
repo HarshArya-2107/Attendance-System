@@ -46,7 +46,7 @@ function App() {
   };
 
   const handleSubmitAttendance = () => {
-    // Here you can perform any necessary actions, such as sending data to a server
+    
     alert("Submitted Successfully")
     console.log(students);
   };

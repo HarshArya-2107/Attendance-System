@@ -10,7 +10,7 @@ body {
 }
 
 .App-header {
-  /* background-color: #282c34; */
+
   background: url(C:\Users\abc\Downloads\photo_cleanup.jpg);
   display: flex;
   padding: 50px;
@@ -29,13 +29,6 @@ body {
   cursor: pointer;
   width: 100%;
   height: 100px;
-
-  
-  /* margin:auto;
-  padding: 16px ;
-  width: 100%;
-  height: 60px;
-  background-color: blue; */
 }
 .TodayDate:hover {
   background-color: #80d1e5;
